@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [POE_Project.PrjPcb]
+   Generated File[POE_PCB.GBL]
+   Generated File[POE_PCB.GKO]
+   Generated File[POE_PCB.RUL]
+   Generated File[POE_PCB.EXTREP]
+   Generated File[POE_PCB.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 6:28:50 PM On 3/4/2020

@@ -1,0 +1,10 @@
+Added Component: Designator=C1(CAPAE5953X52M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "United Chemi-Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EMVA630ADA4R7ME55G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EMVA630ADA4R7ME55G/United%20Chemi-Con/view-part/?ref=search&t=EMVA630ADA4R7ME55G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=POE_Sheet Member=Component C1 EMVA630ADA4R7ME55G
